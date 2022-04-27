@@ -31,6 +31,7 @@ var winners Winners
 
 // Winners struct which contains
 // the list of all winners
+// test commit
 type Winners struct {
 	Winners []Winner `json:"winners"`
 }
